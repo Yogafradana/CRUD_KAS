@@ -15,10 +15,10 @@ const app = express();
 
 //konfigurasi koneksi
 const conn = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'db_lingkom'
+    host: 'sql12.freesqldatabase.com',
+    user: 'sql12619058',
+    password: 'W2nmPsc1An',
+    database: 'sql12619058'
 });
 
 //connect ke database
